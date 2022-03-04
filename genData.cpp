@@ -19,6 +19,4 @@ int main(int argc, char **argv)
     }
     myfile << "\n";
     myfile.close();
-
-    testInput(argv[2]);
 }
